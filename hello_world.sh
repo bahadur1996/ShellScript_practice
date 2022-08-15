@@ -1,3 +1,3 @@
 #! /usr/bin/bash
-#define where is
+#define where is bash
 echo "Hello Word"
